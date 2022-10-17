@@ -1,3 +1,7 @@
+a {
+    text-decoration: none;
+}
+
 .Weather {
     font-family: arial, Arial, Helvetica, sans-serif;
     border: 1px solid #dadde1;
@@ -48,3 +52,4 @@
     line-height: 1;
     top: -34px;
 }
+
